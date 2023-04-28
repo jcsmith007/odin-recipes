@@ -1,1 +1,2 @@
 # odin-recipes
+I am currently working on building a basic recipe website by displaying what I have learned so far in The Odin Project. After completing The Recipe project I will have demonstrated that I can use the correct commands to succesfully navigate the command line and text editor to develop a working website with functioning links.
